@@ -1,0 +1,38 @@
+2015-09-11 07:36:41,666 line: 29  <module>  hello  
+2015-09-11 07:37:08,980 line: 74  start_requests  1 :Mumbai  
+2015-09-11 07:37:08,981 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 07:38:11,077 line: 29  <module>  hello  
+2015-09-11 07:39:46,342 line: 74  start_requests  1 :Mumbai  
+2015-09-11 07:39:51,655 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 07:43:19,143 line: 29  <module>  hello  
+2015-09-11 07:43:19,143 line: 29  <module>  hello  
+2015-09-11 07:47:06,855 line: 29  <module>  hello  
+2015-09-11 07:47:53,369 line: 74  start_requests  1 :Mumbai  
+2015-09-11 07:47:53,371 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 07:50:12,581 line: 87  get_user_id_urls  total page:200  
+2015-09-11 07:50:28,207 line: 94  parse_user_id  scraping........  
+2015-09-11 07:58:55,319 line: 29  <module>  hello  
+2015-09-11 07:59:34,123 line: 74  start_requests  1 :Mumbai  
+2015-09-11 07:59:34,124 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 07:59:36,861 line: 87  get_user_id_urls  total page:200  
+2015-09-11 07:59:36,865 line: 94  parse_user_id  scraping........  
+2015-09-11 08:02:20,684 line: 29  <module>  hello  
+2015-09-11 08:03:22,574 line: 74  start_requests  1 :Mumbai  
+2015-09-11 08:03:22,576 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 08:03:28,113 line: 87  get_user_id_urls  total page:200  
+2015-09-11 08:04:12,595 line: 29  <module>  hello  
+2015-09-11 08:04:46,524 line: 74  start_requests  1 :Mumbai  
+2015-09-11 08:04:46,526 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 08:04:55,476 line: 87  get_user_id_urls  total page:200  
+2015-09-11 08:06:50,995 line: 29  <module>  hello  
+2015-09-11 08:08:07,539 line: 74  start_requests  1 :Mumbai  
+2015-09-11 08:08:07,540 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 08:08:24,487 line: 95  get_user_id_urls  total page:200  
+2015-09-11 08:12:53,555 line: 29  <module>  hello  
+2015-09-11 08:13:26,378 line: 74  start_requests  1 :Mumbai  
+2015-09-11 08:13:26,382 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 08:17:14,073 line: 87  get_user_id_urls  total page:200  
+2015-09-11 08:20:49,911 line: 29  <module>  hello  
+2015-09-11 08:21:22,751 line: 74  start_requests  1 :Mumbai  
+2015-09-11 08:21:22,753 line: 76  start_requests  http://www.zigwheels.com/used-car/Mumbai  
+2015-09-11 08:23:17,424 line: 131  get_user_id_urls  total page:200  
